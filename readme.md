@@ -9,3 +9,9 @@ Bem-vindo ao repositório! Este é um projeto de exemplo para demonstrar o bási
 - Markdowns
 
 ### 📂 Estrutura do Projeto
+
+### Adicionando conteúdo remotamente 
+
+---
+
+## Como trabalhar com o GIT
